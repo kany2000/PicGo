@@ -1,2 +1,2 @@
 # PicGo
-tuchuang
+Github圖床
